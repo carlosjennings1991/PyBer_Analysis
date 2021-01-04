@@ -39,3 +39,9 @@ While these general trend of this result is to be expected, what is interesting 
 Here's the same data as above but in pie-chart format. 
 
 ![driver count piechart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig7.png)
+
+---
+
+### Resuls 3: Revenue per Area
+
+Again, this isn't that surprising. 
