@@ -27,3 +27,11 @@ The outlier in the urban areas is West Angela, with 39 rides.
 The box & whisker chart above does a good job of showing the central tendencies, but for a quick snapshot, here is the same data in pie-chart form. 
 
 ![ride count piechart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig6.png)
+
+---
+
+### Results 2: Driver Counts by Area
+
+Overall, not too surprising. 
+
+![driver count boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig4.png)
