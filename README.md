@@ -13,4 +13,6 @@ This analysis reviews the data for a ride-sharing app named "PyBer". There is a 
 ### Analysis can be found [here](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 ---
 
+## Results
 
+After checking ensuring the source data was ready to be read, the .csv files are imported into a Jupyter Notebook, merged together and analysed. Here are some of the key findings. 
