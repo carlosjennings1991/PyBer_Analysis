@@ -19,7 +19,7 @@ After checking ensuring the source data was ready to be read, the .csv files are
 
 ### Results 1: Ride Counts by Area
 
-Not surprising here, but what is interesting is the huge spread in urban areas. 
+Not surprising here, rural areas are lower, urban is higher and suburban areas inbetween. 
 The outlier in the urban areas is West Angela, with 39 rides.
 
 ![ride count boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig2.png)
@@ -32,6 +32,6 @@ The box & whisker chart above does a good job of showing the central tendencies,
 
 ### Results 2: Driver Counts by Area
 
-Overall, not too surprising. 
+While these general trend of this result is to be expected, what is interesting is the huge spread within urban areas. 
 
 ![driver count boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig4.png)
