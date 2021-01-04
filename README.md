@@ -32,6 +32,6 @@ The box & whisker chart above does a good job of showing the central tendencies,
 
 ### Results 2: Driver Counts by Area
 
-While these general trend of this result is to be expected, what is interesting is the huge spread within urban areas. 
+While these general trend of this result is to be expected, what is interesting is the huge spread within urban areas. The interquartile range within urban areas could fit the entirety of the suburban box & whisker diagram. 
 
 ![driver count boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig4.png)
