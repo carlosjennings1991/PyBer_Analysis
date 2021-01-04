@@ -42,6 +42,12 @@ Here's the same data as above but in pie-chart format.
 
 ---
 
-### Resuls 3: Revenue per Area
+### Results 3: Ride fares by Area
 
 Again, this isn't that surprising. 
+
+![revenue boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig3.png)
+
+Here's the same data in pie-chart form. 
+
+![revenue_piechart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig6.png)
