@@ -44,7 +44,7 @@ Here's the same data as above but in pie-chart format.
 
 ### Results 3: Ride fares by Area
 
-Again, this isn't that surprising. 
+This is a bit surprising. While only 2.6% of drivers are in rural area, they contribute 6.8% of the revenue. 
 
 ![revenue boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig3.png)
 
