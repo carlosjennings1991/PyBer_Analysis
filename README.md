@@ -7,12 +7,8 @@ This analysis reviews the data for a ride-sharing app named "PyBer". There is a 
 * Avg Fare per Ride (per area)
 * Avg Fare per Driver (per area)
 
-Before moving forward, let's make a couple assumptions and see if they are correct. 
-
-Assumption 1 - there will be more rides in urban areas. 
-Assumption 2 - There will be fewer rides in Rural areas, but they'll be much more expensive. 
-Assumption 3 - Suburban areas will land in the middle on all counts. 
-
+Source Data can be found here - 
+Analysis can be found here - 
 ---
 
 
