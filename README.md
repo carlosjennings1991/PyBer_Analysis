@@ -51,3 +51,7 @@ This is a bit surprising. While only 2.6% of drivers are in rural area, they con
 Here's the same data in pie-chart form. 
 
 ![revenue_piechart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig5.png)
+
+---
+
+### Results 4: Revenue Charted by Month
