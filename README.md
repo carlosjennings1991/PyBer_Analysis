@@ -50,4 +50,4 @@ Again, this isn't that surprising.
 
 Here's the same data in pie-chart form. 
 
-![revenue_piechart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig6.png)
+![revenue_piechart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig5.png)
