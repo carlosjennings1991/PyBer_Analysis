@@ -7,7 +7,7 @@ This analysis reviews the data for a ride-sharing app named "PyBer". There is a 
 * Avg Fare per Ride (per area)
 * Avg Fare per Driver (per area)
 
-### Source Data can be found here - [source data](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/PyBer_ride_data.csv)
+### Source Data can be found [here](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/PyBer_ride_data.csv)
 ### Analysis can be found here - 
 ---
 
