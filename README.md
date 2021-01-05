@@ -64,3 +64,7 @@ Overall, this is to be expected in absolute terms. Of course, urban revenue will
 
 ---
 ## Summary
+
+While the below chart is dense and requires a moment or two to digest, it's vastly informative. 
+
+![composite scatterplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig1.png)
