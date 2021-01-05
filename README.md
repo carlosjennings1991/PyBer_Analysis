@@ -44,7 +44,7 @@ Here's the same data as above but in pie-chart format.
 
 ### Results 3: Ride fares by Area
 
-This is a bit surprising. While only 2.6% of drivers are in rural area, they contribute 6.8% of the revenue. 
+This is a bit surprising. While only 2.6% of drivers are in rural area, they contribute 6.8% of the revenue. Another surprising find from this data is that high variability within rural fares. For example, fares within the first quartiles of the rural data is lower than lower-bound outliers within the suburban data. While one could expect the rural data to be higher (due to longer trips), finding comparatively low rural fares is surprising. 
 
 ![revenue boxplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig3.png)
 
@@ -55,3 +55,7 @@ Here's the same data in pie-chart form.
 ---
 
 ### Results 4: Revenue Charted by Month
+
+Here we see a chart of revenue, by area, for the first third of 2019. 
+
+![revenue line chart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig8.png)
