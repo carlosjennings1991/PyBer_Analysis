@@ -67,7 +67,7 @@ Overall, this is to be expected in absolute terms. Of course, urban revenue will
 
 While the below chart is dense and requires a moment or two to digest, it's vastly informative. 
 
-![composite scatterplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig1.png)
+![composite scatterplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig9.png)
 
 Suburban areas have the best of both worlds, and are the only group to have a positive correlation between ride number and fare price i.e places with more rides also have higher fares. So, it would make sense to expand coverage in similar suburban areas. 
 
