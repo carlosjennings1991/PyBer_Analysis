@@ -15,7 +15,7 @@ This analysis reviews the data for a ride-sharing app named "PyBer". There is a 
 
 ## Results
 
-After checking ensuring the source data was ready to be read, the .csv files are imported into a Jupyter Notebook, merged together and analysed. Here are some of the key findings. 
+After ensuring the source data was ready to be read, the .csv files are imported into a Jupyter Notebook, merged together and analized. Here are some of the key findings. 
 
 ### Results 1: Ride Counts by Area
 
