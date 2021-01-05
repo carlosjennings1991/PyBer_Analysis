@@ -69,8 +69,8 @@ While the below chart is dense and requires a moment or two to digest, it's vast
 
 ![composite scatterplot](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Resources/Fig9.png)
 
-** 1. Suburban areas have the best of both worlds, and are the only group to have a positive correlation between ride number and fare price i.e places with more rides also have higher fares. So, it would make sense to expand coverage in similar suburban areas.** 
+**Suburban areas have the best of both worlds, and are the only group to have a positive correlation between ride number and fare price i.e places with more rides also have higher fares. So, it would make sense to expand coverage in similar suburban areas.** 
 
-2. Some of the urban fares are very low. So depending on the break-even cost, certain cities might not be worth the trouble. 
+Some of the urban fares are very low. So depending on the break-even cost, certain cities might not be worth the trouble. 
 
-3. The revenue per driver is quite low in urban areas. While this could be a reflection of part-time drivers, it could also reflect an overabundance of drivers who ultimately drive down the average revenue. Now, if they still bring revenue to the company, it isn't a problem. However, it could generate discontentment within the driver community. There could be some sort of threshold that keeps drivers on or a way to discourage excess drivers in areas that are already well serviced. 
+The revenue per driver is quite low in urban areas. While this could be a reflection of part-time drivers, it could also reflect an overabundance of drivers who ultimately drive down the average revenue. Now, if they still bring revenue to the company, it isn't a problem. However, it could generate discontentment within the driver community. There could be some sort of threshold that keeps drivers on or a way to discourage excess drivers in areas that are already well serviced. 
