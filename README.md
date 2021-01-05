@@ -58,7 +58,7 @@ Here's the same data in pie-chart form.
 
 Here we see a chart of revenue, by area, for the first third of 2019. 
 
-![revenue line chart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Analysis/Fig8.png)
+![revenue line chart](https://github.com/carlosjennings1991/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 Overall, this is to be expected in absolute terms. Of course, urban revenue will be the highest subtotal. What is a bit surprising is the overperformance of rural and suburban areas. While urban highers see a very high volume of rides writ large, they are much shorter in duration. 
 
